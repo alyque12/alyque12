@@ -2,7 +2,7 @@
 - 👀 I’m interested in Quantum Computing and Artificial Intelligence
 - 🌱 I’m currently learning OS development and AI integration
 - ✨ I’m working at Amazon Global Robotics
-- 📫 How to reach me email me @ alyquefarishta12@gmail.com
+- 📫 How to reach me email me @ alyquefarishta@gmail.com
 
 <!---
 alyque12/alyque12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
